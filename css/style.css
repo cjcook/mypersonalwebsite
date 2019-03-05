@@ -160,6 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 #social i {
 	font-size: 40px;
 	color: #4a4a4a
+  text-align:center;
 }
 
 #social i:hover {
