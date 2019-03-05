@@ -154,18 +154,15 @@ h1, h2, h3, h4, h5, h6 {
 	padding-top: 50px;
 	padding-bottom: 50px;
 	background-color: #f2f2f2;
-  text-align:center;
 }
 
 #social i {
 	font-size: 40px;
 	color: #4a4a4a
-  text-align:center;
 }
 
 #social i:hover {
 	color: green
-  text-align:center;
 }
 
 #footerwrap {
