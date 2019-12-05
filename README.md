@@ -1,6 +1,6 @@
 # mypersonalwebsite
 
-	This is the repository that contains all the code for my entire website which is hosted at (https://www.chrisjcook.net/).
+This is the repository that contains all the code for my entire website which is hosted at (https://www.chrisjcook.net/).
 The building process for this website was certainly a learing experience for me. I had to overcome many challenges when
 designing and implementing the code for this site. One of the first challenges that I had was actually hosting the website
 and getting it to display on the internet. After taking a web development course I was able to host my own website. Another
